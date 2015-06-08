@@ -26,9 +26,6 @@
   "dependencies": {
     "react-tween-state": "0.0.5"
   },
-  "peerDependencies": {
-    "react-native": "=0.5.0 <0.6.0"
-  },
   "jshintConfig": {
     "esnext": true,
     "node": true
